@@ -1,0 +1,18 @@
+
+Programming plan for Linux shell wish.c:
+
+1- Display the prompt, using PS1.
+2- Get user input
+3- Parse input into individual tokens
+4- Check tokens (a. Aliases, b. Built-in commands, c. the PATH)
+5- Execute
+6- Start all over!
+
+
+
+Ressources:
+
+1- https://www.geeksforgeeks.org/making-linux-shell-c/
+2- https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/
+3- https://brennan.io/2015/01/16/write-a-shell-in-c/
+4- https://medium.com/@josefgoodyear/building-a-linux-shell-in-c-8be5e109458b
