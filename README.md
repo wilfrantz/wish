@@ -1,0 +1,2 @@
+# wish
+Simple Linux shell
